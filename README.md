@@ -14,7 +14,7 @@ As someone with a background in computer science (recent graduate with an Honors
 
 ## Coding Approach
 
-My goal is always to complete the challenge first and then attempt to optimize/simplify. In instances where I submit multiple solutions, I will upload all submissions here. `Main.cpp` will always be my first submission, and any subsequent `mainX.cpp` files will contain optimized or simplified solutions.
+My goal is always to complete the challenge first and then attempt to optimize/simplify. In instances where I submit multiple solutions, I will upload all submissions here. `main.cpp` will always be my first submission, and any subsequent `mainX.cpp` files will contain optimized or simplified solutions.
 
 ### Daily Uploads
 
