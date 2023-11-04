@@ -4,7 +4,7 @@ Welcome to my GitHub repository for Hackerrank's 30 Days of Code Challenge!
 
 ## About This Repository
 
-As someone with a background in computer science and daily work involving code as a Firmware QA Engineer, you might wonder why I'm taking on a challenge designed for beginners. Here's the motivation behind my participation:
+As someone with a background in computer science (recent graduate with an Honors B.S. degree in computer science) and daily work involving code as a Firmware QA Engineer, you might wonder why I'm taking on a challenge designed for beginners. Here's the motivation behind my participation:
 
 1. **Continuous Learning:** Coding, like any skill, benefits from regular practice. By working through these daily coding challenges, I aim to reinforce my understanding of fundamental concepts and maintain a strong foundation.
 
