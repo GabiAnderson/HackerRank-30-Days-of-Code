@@ -1,12 +1,7 @@
 /*
 
-  Improvements
-    Single vector for output instead of two
-      Swapped out a single for loop with an if-else determine which vector to use
-      Now using two for loops, no if, and a single vector for output
-    Simplified output loop
-      Swapped out two for loops (looping through the 2 output vectors)
-      Using a for loop (characters in output vector)
+  Improvements(?)
+    To get even more practice I took main2.cpp and converted from vector<char> to strings (kind of the same thing but different handling in some cases)
 
 */
 
