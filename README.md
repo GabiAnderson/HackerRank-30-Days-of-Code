@@ -14,8 +14,8 @@ As someone with a background in computer science (recent graduate with an Honors
 
 ## Coding Approach
 
-My goal is always to complete the challenge first and then attempt to optimize/simplify. In instances where I submit multiple solutions, I will upload all submissions here. `main.cpp` will always be my first submission, and any subsequent `mainX.cpp` files will contain optimized or simplified solutions.
+My goal is always to complete the challenge first and then attempt to optimize/simplify. In instances where I submit multiple solutions, I will upload all submissions here. `main.cpp` will always be my first submission, and any subsequent `mainX.cpp` files will contain optimized or simplified solutions. At the top of any `mainX.cpp` files I will always strive to include a block comment showcasing exactly what changes were made and potentially why those changes were made.
 
 ### Daily Uploads
 
-Please note that my submissions will be uploaded daily, corresponding to the unlocking schedule of the challenges. The challenges are locked until their given day (e.g., the next challenge, day 2, unlocks in 17 hours), and I will promptly upload my solutions as they become available.
+Please note that my submissions will be uploaded daily, corresponding to the unlocking schedule of the challenges. The challenges are locked until their given day (e.g., the next challenge (as of writing this README), day 2, unlocks in 17 hours), and I will promptly upload my solutions as they become available and I complete them. I will always strive to have the challenge completed the day it is released but sometimes I may not upload the solution the same day.
