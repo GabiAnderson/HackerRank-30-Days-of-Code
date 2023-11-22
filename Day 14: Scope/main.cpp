@@ -6,6 +6,8 @@
 
 using namespace std;
 
+// DO NOT CHANGE CODE ABOVE
+
 class Difference {
     private:
     vector<int> elements;
@@ -55,7 +57,7 @@ class Difference {
 
 }; // End of Difference class
 
-// CHANGE NOTHING BEYOND THIS POINT
+// DO NOT CHANGE CODE BELOW
 int main() {
     int N;
     cin >> N;
