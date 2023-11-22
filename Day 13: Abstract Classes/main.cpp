@@ -18,6 +18,8 @@ class Book{
 
 };
 
+// DO NOT CHANGE CODE ABOVE
+
 // Write your MyBook class here
 
 class MyBook: public Book
@@ -52,6 +54,7 @@ class MyBook: public Book
 };  
 // End class
 
+// DO NOT CHANGE CODE BELOW
 int main() {
     string title,author;
     int price;
