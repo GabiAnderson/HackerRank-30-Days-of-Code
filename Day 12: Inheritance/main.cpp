@@ -21,6 +21,8 @@ class Person{
     
 };
 
+// DO NOT CHANGE CODE ABOVE
+
 class Student :  public Person{
     private:
         vector<int> testScores;  
@@ -106,6 +108,7 @@ class Student :  public Person{
         }
 };
 
+// DO NOT CHANGE CODE BELOW
 int main() {
     string firstName;
     string lastName;
