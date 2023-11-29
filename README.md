@@ -18,4 +18,4 @@ My goal is always to complete the challenge first and then attempt to optimize/s
 
 ### Daily Uploads
 
-Please note that my submissions will (hopefully) be uploaded daily, corresponding to the unlocking schedule of the challenges. The challenges are locked until their given day at 9 AM, and I will promptly upload my solutions as they become available and I complete them. I will always strive to have the challenge completed the day it is released but sometimes I may not upload the solution the same day though I will be stiving to do so.
+Please note that my submissions will (hopefully) be uploaded daily, corresponding to the unlocking schedule of the challenges. The challenges are locked until their given day at 9 AM, and I will promptly upload my solutions as they become available and I complete them. I will always strive to have the challenge completed the day it is released but sometimes I may not upload the solution the same day though I will be striving to do so.
