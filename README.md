@@ -1,3 +1,6 @@
+
+🟢**Update:** This challenge was completed on Dec 2, 2023
+
 # 30 Days of Code Challenge
 
 Welcome to my GitHub repository for Hackerrank's 30 Days of Code Challenge!
